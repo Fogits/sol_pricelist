@@ -8,6 +8,7 @@
     'description': """
     Allow to add pricelist in sale order line.
   """,
+    'images': ['static/description/cover.jpg'],
     'category': 'sale',
     'depends': ['sale'],
     'data': [
