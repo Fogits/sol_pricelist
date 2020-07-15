@@ -4,6 +4,7 @@
     'name': 'Product order pricelist',
     'version': '1.0',
     'summary': 'Product order pricelist',
+    'author': "Fogits Solutions",
     'description': """
     Allow to add pricelist in sale order line.
   """,
